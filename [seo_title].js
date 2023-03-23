@@ -1,3 +1,5 @@
+// code is from https://www.mycarmates.com/ website which is a PWA and made for mobile device.
+
 import Image from 'next/image'
 import React, { useEffect, useState } from 'react'
 import { imageLoader } from '../../components/utils/imageLoader'
